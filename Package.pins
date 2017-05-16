@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Parsec",
+      "reason": null,
+      "repositoryURL": "https://github.com/behrang/SwiftParsec.git",
+      "version": "2.5.0"
+    }
+  ],
+  "version": 1
+}
